@@ -14,7 +14,5 @@ Welcome to my GitHub profile!
 Please visit my recent projects!
 
 ## 📊 GitHub Stats
-![ray0814-sh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray0814-sh&show_icons=true&theme=radical)
 
----
 Thanks for visiting my profile!
