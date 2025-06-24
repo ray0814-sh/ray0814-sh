@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning: Scalable backend architectures, TypeScript, and AWS services
 - 💡 Interested in: Full stack development, designing robust APIs, microservice patterns, and modern UI/UX
-- 🛠️ Skills: JavaScript, TypeScript, React, Node.js, Express, REST, GraphQL, MongoDB, Postgres, Docker, Git
+- 🛠️ Skills: JavaScript, TypeScript, React, Node.js, Express, REST, GraphQL, Django, Laravel, MongoDB, Postgres, Docker, Git
 - 📫 How to reach me: [raypenver0814@gmail.com] Please contact anytime!
 
 ## 🚀 Projects
